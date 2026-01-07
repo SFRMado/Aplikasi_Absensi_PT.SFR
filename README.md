@@ -39,7 +39,7 @@ Aplikasi Absensi Pegawai PT. SFR adalah sistem berbasis web untuk mencatat kehad
 
 ---
 
-## 🛠️ Teknologi
+## 🛠️ Menggunakan
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js" />
