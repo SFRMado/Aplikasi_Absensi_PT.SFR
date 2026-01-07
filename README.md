@@ -39,16 +39,6 @@ Aplikasi Absensi Pegawai PT. SFR adalah sistem berbasis web untuk mencatat kehad
 
 ---
 
-## 🖥️ Preview Aplikasi
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY0YjZlYjU2ODc4N2I4OTNiNzQ1YjUxZWQ0NzZhZmJmZDU0YyZjdD1n/26ufdipQqU2lhNA4g/giphy.gif" width="700">
-</p>
-
-> *Preview ilustratif – dapat disesuaikan dengan GIF aplikasi Anda sendiri*
-
----
-
 ## 🛠️ Teknologi
 
 <p align="center">
